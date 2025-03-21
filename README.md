@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Nihal Motukuri (@nihalmotukuri)
+- 👀 I’m interested in AI-powered full-stack development, ethical hacking, and web security
+- 🌱 I’m currently learning Python, JavaScript, and SQL
+- 💞️ I’m looking to collaborate on AI-driven web projects and innovative frontend experiences
+- 📫 How to reach me: [Your Email/LinkedIn/GitHub]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: N/A
