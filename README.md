@@ -16,8 +16,8 @@ I'm currently focused on building scalable and efficient applications using thes
 📊 My GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nihalmotukuri&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nihal's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nihalmotukuri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nihal's GitHub Stats"/>
 </p>
 📫 Get in Touch
 
-I'm always open to discussing new tech, brainstorming project ideas, or exploring collaboration opportunities. The best way to reach me is through LinkedIn or by sending an email to nihalmotukuri@gmail.com.
+I'm always open to discussing new tech, brainstorming project ideas, or exploring collaboration opportunities. The best way to reach me is through LinkedIn or by sending an email to nihalmotukuri.work@gmail.com.
