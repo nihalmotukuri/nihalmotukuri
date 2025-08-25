@@ -1,6 +1,6 @@
-Hi there, I'm Nihal Motukuri 👋
+Hi there, I'm Nihal Motukuri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a full-stack developer passionate about building efficient, scalable, and innovative web applications. I enjoy tackling complex problems and creating seamless user experiences from the database to the browser.
+I'm a <font color="#58a6ff">full-stack developer</font> passionate about building efficient, scalable, and innovative web applications. I enjoy tackling complex problems and creating seamless user experiences from the database to the browser.
 🛠️ My Tech Stack
 
 I'm currently focused on building scalable and efficient applications using these technologies:
