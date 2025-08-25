@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Nihal Motukuri** (@nihalmotukuri)  
 - 👀 I’m interested in **AI-powered full-stack development**  
 - 🌱 I’m currently learning **Python, JavaScript, and SQL**  
-- 💡 Exploring **React, FastAPI, and PostgreSQL** for full-stack projects  
+- 💡 Exploring **MERN, FastAPI, and PostgreSQL** for full-stack projects
 - 💞️ I’m looking to collaborate on **AI-driven web apps and innovative frontend experiences**  
 - 📫 Reach me at: **nihalmotukuri.work@gmail.com**  
 - 😄 Pronouns: **He/Him**  
