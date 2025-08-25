@@ -1,9 +1,11 @@
-Hi there, I'm Nihal Motukuri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# 👋 Hey, I'm Nihal Motukuri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
-I'm a <font color="#58a6ff">full-stack developer</font> passionate about building efficient, scalable, and innovative web applications. I enjoy tackling complex problems and creating seamless user experiences from the database to the browser.
-🛠️ My Tech Stack
+I'm a **computer science student and aspiring full-stack developer**.  
+Currently, I’m focused on learning how to build **scalable and user-friendly web applications**, and I enjoy experimenting with new technologies while strengthening my fundamentals.
 
-I'm currently focused on building scalable and efficient applications using these technologies:
+---
+
+## 🛠️ Tech Stack (Learning & Building With)
 
 <p align="left">
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> </a>
@@ -13,6 +15,18 @@ I'm currently focused on building scalable and efficient applications using thes
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> </a>
 </p>
-📫 Get in Touch
 
-I'm always open to discussing new tech, brainstorming project ideas, or exploring collaboration opportunities. The best way to reach me is through LinkedIn or by sending an email to nihalmotukuri.work@gmail.com.
+---
+
+## 🌱 What I’m Focusing 
+- Building projects with **MERN + FastAPI + PostgreSQL**  
+- Learning to design **clean, scalable, and efficient apps**  
+
+---
+
+## 📫 Let’s Connect  
+
+💼 [LinkedIn](https://www.linkedin.com/in/nihalmotukuri/)  
+📧 nihalmotukuri.work@gmail.com  
+
+I’m always open to learning opportunities, collaborations, and sharing ideas 🚀
