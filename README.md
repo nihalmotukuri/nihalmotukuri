@@ -13,11 +13,6 @@ I'm currently focused on building scalable and efficient applications using thes
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> </a>
 </p>
-📊 My GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nihalmotukuri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nihal's GitHub Stats"/>
-</p>
 📫 Get in Touch
 
 I'm always open to discussing new tech, brainstorming project ideas, or exploring collaboration opportunities. The best way to reach me is through LinkedIn or by sending an email to nihalmotukuri.work@gmail.com.
